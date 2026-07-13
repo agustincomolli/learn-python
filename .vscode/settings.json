@@ -1,6 +1,10 @@
 {
   "terminal.integrated.fontFamily": "VictorMono Nerd Font",
-    "terminal.integrated.fontWeightBold": "bold",
-    "terminal.integrated.fontWeight": "bold",
-    "terminal.integrated.letterSpacing": 1,
+  "terminal.integrated.fontWeightBold": "bold",
+  "terminal.integrated.fontWeight": "bold",
+  "terminal.integrated.letterSpacing": 1,
+  // Configuración de iconos y temas
+  "workbench.iconTheme": "material-icon-theme",
+  "material-icon-theme.folders.color": "#fdd835",
+  "workbench.colorTheme": "My Modern Dark Theme",
 }
