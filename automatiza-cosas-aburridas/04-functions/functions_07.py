@@ -21,6 +21,7 @@ def division(dividend, divisor):
         return dividend / divisor
     except ZeroDivisionError:
         print("ERROR: no se puede dividir un número por 0")
+        return None
 
 
 print(division(42, 2))
